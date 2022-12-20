@@ -1,0 +1,12 @@
+name: xcurator-data-analyser
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - beautifulsoup4
+  - lxml
+  - requests
+  - pandas
+  - matplotlib
+  - python=3.10
+  - pandas
